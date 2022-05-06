@@ -1,1 +1,2 @@
-[![Sariel.D's github stats](https://github-readme-stats.vercel.app/api?username=sari3l&theme=radical&show_icons=true&hide=contribs,prs)](https://github.com/sari3l/github-readme-stats)
+## 感言
+Golang 初识很友好，深入了解愈发丑陋，可能是期望太大
